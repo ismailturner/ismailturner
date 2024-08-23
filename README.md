@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data-Driven Business Insights Projects:</h2>
 
 - <b>Excel</b>
-  - [Coffee Sales Analysis](https://github.com/joshmadakor1/Algorithms-Practice) <b><i>(XLOOKUP, INDEX MATCH, Pivot Tables, Dashboard Creation)</b></i>
+  - [Coffee Sales Analysis](https://github.com/ismailturner/CoffeeDataAnalysisProject) <b><i>(XLOOKUP, INDEX MATCH, Pivot Tables, Dashboard Creation)</b></i>
 - <b>SQL</b>
   - [Walmart Sales Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Feature Engineering, Revenue Analysis, Customer Segmentation)</b></i>
 - <b>Tableau</b>
