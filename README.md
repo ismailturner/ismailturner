@@ -5,7 +5,7 @@
 - <b>Excel</b>
   - [Coffee Sales Analysis](https://github.com/ismailturner/CoffeeDataAnalysisProject) <b><i>(XLOOKUP, INDEX MATCH, Pivot Tables, Dashboard Creation)</b></i>
 - <b>SQL</b>
-  - [Walmart Sales Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Feature Engineering, Revenue Analysis, Customer Segmentation)</b></i>
+  - [Walmart Sales Data Analysis](https://github.com/ismailturner/WalmartSalesProject) <b><i>(Feature Engineering, Revenue Analysis, Customer Segmentation)</b></i>
 - <b>Tableau</b>
   - [British Airways Customer Experience Dashboard](https://github.com/ismailturner/BritishAirwaysDashboard) <b><i>(Data Visualization, Dynamic Filtering)</b></i>
 
@@ -17,7 +17,6 @@
 [linkedin]: https://www.linkedin.com/in/ismail-turner/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
